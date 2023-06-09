@@ -12,7 +12,7 @@
 <a href="https://t.me/muminov_0911">
 <img src="https://static.vecteezy.com/system/resources/previews/017/221/839/original/telegram-logo-transparent-free-png.png" width="30px" height="30px">  
  <a href="https://www.codewars.com/users/Belli">
-<img src="https://docs.codewars.com/logo.svg" width="40px"">  
+<img src="https://docs.codewars.com/logo.svg" width="30px"">  
 </a>
 <br/>
   
